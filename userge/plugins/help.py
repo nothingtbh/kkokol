@@ -54,7 +54,7 @@ REPO_X = InlineQueryResultArticle(
     input_message_content=InputTextMessageContent("**Here's how to setup USERGE-X** "),
     url="https://github.com/code-rgb/USERGE-X",
     description="Setup Your Own",
-    thumb_url="https://i.imgur.com/1xsOo9o.png",
+    thumb_url="https://i.imgur.com/NfIsDQ5.png",
     reply_markup=InlineKeyboardMarkup(
         [
             [
