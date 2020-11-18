@@ -1049,7 +1049,7 @@ if userge.has_bot:
                 input_message_content=InputTextMessageContent(" 𝐔𝐒𝐄𝐑𝐆𝐄-𝐗  𝗠𝗔𝗜𝗡 𝗠𝗘𝗡𝗨 "),
                 url="https://github.com/lostb053/USERGE-L",
                 description="Userge-L Main Menu",
-                thumb_url="https://i.imgur.com/1xsOo9o.png",
+                thumb_url="https://i.imgur.com/NfIsDQ5.png",
                 reply_markup=InlineKeyboardMarkup(main_menu_buttons()),
             )
             results.append(MAIN_MENU)
